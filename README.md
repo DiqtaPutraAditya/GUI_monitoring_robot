@@ -29,14 +29,15 @@ Dibuat untuk memonitor data robot secara real-time melalui antarmuka grafis, den
 ---
 
 ## 📁 Struktur Project
-GUI_monitoring_robot/
-├── GUI/ # Kode utama aplikasi WinForms
-├── GUI EILERO 0.3/ # Versi lain/draft GUI
-├── INSTALLER GUI EILERO/ # File installer project
-├── My_GUI_EILERO/Release/ # Build release
-├── packages/ # Dependency NuGet
-├── GUI.sln # Solution file Visual Studio
-└── README.md # Dokumentasi project
+    GUI_monitoring_robot/
+
+     ├── GUI/                          # Kode utama aplikasi WinForms
+     ├── GUI EILERO 0.3/              # Versi lain/draft GUI
+     ├── INSTALLER GUI EILERO/        # File installer project
+     ├── My_GUI_EILERO/Release/       # Build release
+     ├── packages/                    # Dependency NuGet
+     ├── GUI.sln                     # Solution file Visual Studio
+     └── README.md                   # Dokumentasi project
 
 ---
 
