@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{2F363314-AAC3-4EE4-A8EB-627139BD126D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "INSTALLER GUI EILERO", "INSTALLER GUI EILERO\INSTALLER GUI EILERO.vdproj", "{8A5AD062-B9DD-4BE6-B2DB-2BF7A1E993AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F363314-AAC3-4EE4-A8EB-627139BD126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F363314-AAC3-4EE4-A8EB-627139BD126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F363314-AAC3-4EE4-A8EB-627139BD126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F363314-AAC3-4EE4-A8EB-627139BD126D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5AD062-B9DD-4BE6-B2DB-2BF7A1E993AC}.Debug|Any CPU.ActiveCfg = Debug
+		{8A5AD062-B9DD-4BE6-B2DB-2BF7A1E993AC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BC73FF-FE96-41D0-AE41-AA465A940DD8}
+	EndGlobalSection
+EndGlobal
