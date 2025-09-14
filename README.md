@@ -74,13 +74,6 @@ Aplikasi hanya berjalan di Windows (WinForms)
 
 ---
 
-🔖 Lisensi
-
-Hak cipta © 2025 DiqtaPutraAditya
-Lisensi: MIT (atau lisensi lain sesuai kebutuhan)
-
----
-
 🤝 Kontak
 
 📧 Email: diqtaputraaditya2019@gmail.com
