@@ -60,7 +60,7 @@ Dibuat untuk memonitor data robot secara real-time melalui antarmuka grafis, den
 
 Tambahkan screenshot GUI kamu di sini (contoh di bawah masih dummy):
 
-![Tampilan GUI](assets/screenshot.png)
+![Tampilan GUI](https://github.com/DiqtaPutraAditya/GUI_monitoring_robot/blob/main/Screenshot%202025-09-19%20090430.png)
 
 ---
 
