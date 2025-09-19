@@ -1,7 +1,7 @@
 # GUI Monitoring Robot
 
 Aplikasi **GUI Monitoring Robot** berbasis **C# WinForms** menggunakan Visual Studio.  
-Dibuat untuk memonitor data robot secara real-time melalui antarmuka grafis, dengan integrasi sensor (imu MPU6050, Sensor Lidar, Ultrasonic) yang terhubung ke mikrokontroler STM32.
+Dibuat untuk memonitor data robot secara real-time melalui antarmuka grafis, dengan integrasi sensor (imu MPU6050, Sensor Lidar, Ultrasonic) yang terhubung ke mikrokontroler STM32 dengan koneksi bluetooth HC-05.
 
 ---
 
